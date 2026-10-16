@@ -34,6 +34,8 @@ python chatbot.py
 
 ## Sample chat
 
+![Saathi Bot demo](demo.png)
+
 ```
 You: HELLO!!
 Saathi: Hey! Nice to see you.
